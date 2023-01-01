@@ -7,18 +7,18 @@ grurqHTMLeditor.zipから実行ファイルをダウンロードしてくださ�
 ## 主なショートカット一覧
 |キー|効果|
 |---|---|
-|ctrl+0|<p></p>|
-|ctrl+1~6|<h1>～<h6></h1>～<h6>|
-|ctrl+k|<br>|
-|ctrl+t|<i></i>|
-|ctrl+u|<u></u>|
-|ctrl+w|<a href=""></a>|
-|ctrl+q|<blockquote></blockquote>|
-|ctrl+p|<img src="">|
-|ctrl+h|<hr>|
-|ctrl+g|<li></li>|
-|ctrl+o|<ol></ol>|
-|ctrl+n|<ul></ul>|
+|ctrl+0|`<p></p>`|
+|ctrl+1~6|`<h1>～<h6></h1>～<h6>`|
+|ctrl+k|`<br>`|
+|ctrl+t|`<i></i>`|
+|ctrl+u|`<u></u>`|
+|ctrl+w|`<a href=""></a>`|
+|ctrl+q|`<blockquote></blockquote>`|
+|ctrl+p|`<img src="">`|
+|ctrl+h|`<hr>`|
+|ctrl+g|`<li></li>`|
+|ctrl+o|`<ol></ol>`|
+|ctrl+n|`<ul></ul>`|
 |ctrl+d|日付（CAPSLOCKオン　年・月・日 　オフ//）|
 |ctrl+m|時間|
 |ctrl+f|検索|
