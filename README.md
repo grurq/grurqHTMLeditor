@@ -2,8 +2,6 @@
 ![grurqHTMLeditor](https://grurq.github.io/grurqHTMLeditor.png)  
 C#で作られた、簡易htmlエディタです。HTML 4.01に対応しています。  
 
-grurqHTMLeditor.zipから実行ファイルをダウンロードしてください。  
-
 ## 主なショートカット一覧
 |キー|効果|
 |---|---|
